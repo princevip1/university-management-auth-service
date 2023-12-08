@@ -3,7 +3,7 @@ import { IUser } from './user.interface'
 import { User } from './user.model'
 import { genareteUserId } from './user.utils'
 
-const createUser = async (user: IUser) => {
+const createUser = async (user: IUser): Promise<IUser> => {
   // auto increment id
 
   const lastUser = await User.findOne(
@@ -18,13 +18,14 @@ const createUser = async (user: IUser) => {
     user.password = config.defaultUserPassword as string
   }
 
-  const createdUser = await User.create(user)
-  if (!createdUser) {
+  const result = await User.create(user)
+  if (!result) {
     throw new Error('User could not be created')
   }
-  return createdUser.toObject() as IUser
+  return result
 }
 
-export const userService = {
+export const UserService = {
   createUser,
 }
+

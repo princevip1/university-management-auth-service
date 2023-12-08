@@ -1,0 +1,80 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/prince/Desktop/university-management-auth-service/logs/winston/errors/.1869148b2e6e84831c8723095199b520778162ff-audit.json",
+    "files": [
+        {
+            "date": 1701148700641,
+            "name": "/Users/prince/Desktop/university-management-auth-service/logs/winston/errors/phu-2023-11-28-11-error.log",
+            "hash": "93a3c5c8bf342041e431ffb77983184238ff58bc074c02c8a58a9be0098a063b"
+        },
+        {
+            "date": 1701166112580,
+            "name": "/Users/prince/Desktop/university-management-auth-service/logs/winston/errors/phu-2023-11-28-16-error.log",
+            "hash": "52652693f7f718b9c482d5cfbd1b721e1138de53e2d114a2c0ae7bcdc73bb06b"
+        },
+        {
+            "date": 1701772389602,
+            "name": "/Users/prince/Desktop/university-management-auth-service/logs/winston/errors/phu-2023-12-05-16-error.log",
+            "hash": "1edba943a75ba7ff12ffd71184f3e3be1ffd7517d9ac13f62124fb9d52c0e3ee"
+        },
+        {
+            "date": 1701774519993,
+            "name": "/Users/prince/Desktop/university-management-auth-service/logs/winston/errors/phu-2023-12-05-17-error.log",
+            "hash": "ed3035c54abb42c62978d818d1071c4f1a3121ad8e6d3cdbb5ad020d24937040"
+        },
+        {
+            "date": 1701778232263,
+            "name": "/Users/prince/Desktop/university-management-auth-service/logs/winston/errors/phu-2023-12-05-18-error.log",
+            "hash": "f40713dd960648cad7cd4a8f7f9693521e0168676026cf753b4ca126d4594a01"
+        },
+        {
+            "date": 1701879701172,
+            "name": "/Users/prince/Desktop/university-management-auth-service/logs/winston/errors/phu-2023-12-06-22-error.log",
+            "hash": "742d9413755463c20a623770009d8a5641bb4f14d596d6f22d7d76c681110386"
+        },
+        {
+            "date": 1701882065005,
+            "name": "/Users/prince/Desktop/university-management-auth-service/logs/winston/errors/phu-2023-12-06-23-error.log",
+            "hash": "4c7aed38bffa0cc0b995d9130df0b838dd8d28ad024dad9eb09cf9f5979acbae"
+        },
+        {
+            "date": 1701970492932,
+            "name": "/Users/prince/Desktop/university-management-auth-service/logs/winston/errors/phu-2023-12-07-23-error.log",
+            "hash": "074676f2bf1069cb2f1c3e4ad97ab86547ae956068bff36974ac290c12e926e8"
+        },
+        {
+            "date": 1701972010383,
+            "name": "/Users/prince/Desktop/university-management-auth-service/logs/winston/errors/phu-2023-12-08-00-error.log",
+            "hash": "dd578aca4f97b6a5d998d7a543ecb5f7778cde83164c4a38e5eb90f403322166"
+        },
+        {
+            "date": 1702011281663,
+            "name": "/Users/prince/Desktop/university-management-auth-service/logs/winston/errors/phu-2023-12-08-10-error.log",
+            "hash": "99a2500bfbee63a2531e2f0f9bcfa2dc9291408b8a533f1e57b42157eca82091"
+        },
+        {
+            "date": 1702012122292,
+            "name": "/Users/prince/Desktop/university-management-auth-service/logs/winston/errors/phu-2023-12-08-11-error.log",
+            "hash": "2cdc65fef1c51f94b86d29c51ea26855815a0b9c865657ee64afd5da9ae3b61f"
+        },
+        {
+            "date": 1702018635959,
+            "name": "/Users/prince/Desktop/university-management-auth-service/logs/winston/errors/phu-2023-12-08-12-error.log",
+            "hash": "2edd282abd6058e72fb869e38a68462edf8b35d9a07858aa0a52c199e6ed2ce1"
+        },
+        {
+            "date": 1702018805690,
+            "name": "/Users/prince/Desktop/university-management-auth-service/logs/winston/errors/phu-2023-12-08-13-error.log",
+            "hash": "a620c5e7e465597bbb43c3231bb36689a619eefd1a145d7113dcc391a885fe72"
+        },
+        {
+            "date": 1702022455645,
+            "name": "/Users/prince/Desktop/university-management-auth-service/logs/winston/errors/phu-2023-12-08-14-error.log",
+            "hash": "018b024a8fad73df4a9e27c38fce0743c8e8ac232a24544626a878ee98c3bbaa"
+        }
+    ],
+    "hashType": "sha256"
+}
